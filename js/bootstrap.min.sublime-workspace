@@ -1,0 +1,357 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"set",
+				"setCookie"
+			],
+			[
+				"user",
+				"user_params"
+			],
+			[
+				"lis",
+				"listing_id"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"coll",
+				"collapse"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"r",
+				"transparent"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"sle",
+				"self"
+			],
+			[
+				"max",
+				"max_meters"
+			],
+			[
+				"geo",
+				"geolocation"
+			],
+			[
+				"col",
+				"collection"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/waqar/Videos/RentgrataAPI/app/models/user.rb",
+		"/home/waqar/Videos/RentgrataAPI/.env",
+		"/home/waqar/Videos/RentgrataAPI/app/models/authentication.rb",
+		"/home/waqar/Videos/RentgrataAPI/app/services/facebook.rb",
+		"/home/waqar/Videos/RentgrataAPI/app/controllers/sessions_controller.rb",
+		"/home/waqar/Videos/RentgrataAPI/app/views/listings/_get_listing_mobile.html.haml",
+		"/home/waqar/Videos/RentgrataAPI/app/assets/javascripts/channels/conversations.js",
+		"/home/waqar/Videos/RentgrataAPI/app/channels/messages_channel.rb",
+		"/home/waqar/Videos/RentgrataAPI/app/controllers/messages_controller.rb",
+		"/home/waqar/Videos/RentgrataAPI/Gemfile",
+		"/home/waqar/Videos/RentgrataAPI/app/assets/javascripts/channels/messages.js",
+		"/home/waqar/Videos/RentgrataAPI/app/views/listings/_chat_box.html.haml",
+		"/home/waqar/Videos/RentgrataAPI/app/assets/javascripts/listings.js",
+		"/home/waqar/Videos/RentgrataAPI/yarn.lock",
+		"/home/waqar/Desktop/c4w2/assignment 1 solution.html",
+		"/home/waqar/Videos/RentgrataAPI/app/assets/javascripts/custom.js",
+		"/home/waqar/Videos/RentgrataAPI/app/views/listings/_populate_listing.html.haml",
+		"/home/waqar/Videos/RentgrataAPI/app/controllers/user_controller.rb",
+		"/home/waqar/Videos/RentgrataAPI/app/views/home/landing.html.erb",
+		"/home/waqar/Videos/RentgrataAPI/config/routes.rb",
+		"/home/waqar/Videos/RentgrataAPI/app/views/listings/index.html.haml",
+		"/home/waqar/Videos/RentgrataAPI/app/controllers/listings_controller.rb",
+		"/home/waqar/Videos/RentgrataAPI/app/views/user/edit.html.haml",
+		"/home/waqar/Videos/RentgrataAPI/app/controllers/v1/interests_controller.rb",
+		"/home/waqar/Desktop/bootstrap-3.3.7-dist/css/style.css",
+		"/home/waqar/Desktop/bootstrap-3.3.7-dist/index.html",
+		"/home/waqar/Documents/index.html",
+		"/home/waqar/Videos/RentgrataAPI/app/views/home/index.html.haml",
+		"/home/waqar/Videos/RentgrataAPI/app/assets/javascripts/jPushMenu.js",
+		"/home/waqar/Videos/RentgrataAPI/app/models/listing.rb",
+		"/home/waqar/Documents/style.css",
+		"/home/waqar/Desktop/bootstrap-3.3.7-dist/style.css",
+		"/home/waqar/Desktop/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg",
+		"/home/waqar/Desktop/bootstrap-3.3.7-dist.zip",
+		"/home/waqar/Videos/RentgrataAPI/app/mailers/listing_mailer.rb",
+		"/home/waqar/Videos/RentgrataAPI/test/controllers/index.html",
+		"/home/waqar/Videos/RentgrataAPI/.gitignore",
+		"/home/waqar/Desktop/sd",
+		"/home/waqar/Videos/RentgrataAPI/app/controllers/v1/listings_controller.rb",
+		"/home/waqar/Desktop/index.html",
+		"/home/waqar/Videos/RentgrataAPI/app/assets/images/.keep",
+		"/home/waqar/jhu-c3/Places/web services commands.txt",
+		"/home/waqar/jhu-c3/Places/app/models/photo.rb",
+		"/home/waqar/jhu-c3/Places/Gemfile"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 103.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bootstrap.min.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				".en",
+				".env"
+			],
+			[
+				"cus",
+				"app/assets/javascripts/custom.js"
+			],
+			[
+				"_pop",
+				"app/views/listings/_populate_listing.html.haml"
+			],
+			[
+				"inde",
+				"app/views/listings/index.html.haml"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"index",
+				"app/views/listings/index.html.haml"
+			],
+			[
+				"popula",
+				"app/views/listings/_populate_listing_mobile.html.haml"
+			],
+			[
+				"chat_one_co",
+				"app/views/layouts/_chat_one_conversation.html.haml"
+			],
+			[
+				"conversatio",
+				"app/controllers/conversations_controller.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"conversa",
+				"app/controllers/conversations_controller.rb"
+			],
+			[
+				"conv",
+				"app/models/conversation.rb"
+			],
+			[
+				"listing.js",
+				"app/assets/javascripts/listings.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 268.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
